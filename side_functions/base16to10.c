@@ -6,7 +6,6 @@
 */
 
 #include <stdlib.h>
-#include "lib.h"
 
 char *letter_to_int(int i, int j, char *res, char *str)
 {

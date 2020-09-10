@@ -5,8 +5,6 @@
 ** my_put_nbr
 */
 
-#include "lib.h"
-
 void calculus(int numb)
 {
     if (numb > 0) {

@@ -6,7 +6,6 @@
 */
 
 #include <stdlib.h>
-#include "lib.h"
 
 char *convert_letter(int i, int nb, char *res)
 {
