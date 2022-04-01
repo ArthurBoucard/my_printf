@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/arthurboucard/my_printf/badge)](https://www.codefactor.io/repository/github/arthurboucard/my_printf)
+
 # My_Printf
 ## <img width="26px" src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png"/> Epitech project :
 
